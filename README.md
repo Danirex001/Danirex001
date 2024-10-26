@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Danirex001
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Daniel
+- 👀 I’m interested in Data analytics and Economics
+- 🌱 python,Sql,Excel,Tableau
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me @danielekwusigo@gmail.com
 - 😄 Pronouns: He 
